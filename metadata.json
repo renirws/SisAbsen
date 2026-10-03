@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Absensi & PRD System Analyst",
+  "description": "Product Requirement Document (PRD), Desain Database Relasional Terstruktur, dan Prototipe Interaktif Sistem Informasi Absensi Karyawan, Admin, dan HRD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
